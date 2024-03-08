@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="hero container" id="hero">
       <div className="hero-text">
-        <h1>Pre ano na? Kaya pa? Yaik ka</h1>
+        <h1>Pre ano na, Kaya pa?</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam,
           iste animi? Unde asperiores tempore aperiam pariatur temporibus
