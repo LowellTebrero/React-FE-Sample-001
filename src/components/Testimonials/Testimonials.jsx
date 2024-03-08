@@ -38,7 +38,7 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_1} alt="" />
                 <div>
-                  <h3>William Jackson</h3>
+                  <h3>Ariel Lopez</h3>
                   <span>Edusity, USA</span>
                 </div>
               </div>
@@ -56,7 +56,7 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_2} alt="" />
                 <div>
-                  <h3>William Jackson</h3>
+                  <h3>Derick Durante</h3>
                   <span>Edusity, USA</span>
                 </div>
               </div>
@@ -74,7 +74,7 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_3} alt="" />
                 <div>
-                  <h3>William Jackson</h3>
+                  <h3>John Lloyd Rosanes</h3>
                   <span>Edusity, USA</span>
                 </div>
               </div>
@@ -92,7 +92,7 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_4} alt="" />
                 <div>
-                  <h3>William Jackson</h3>
+                  <h3>Master Yvan</h3>
                   <span>Edusity, USA</span>
                 </div>
               </div>
